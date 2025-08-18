@@ -27,6 +27,7 @@ Pour chaque identifiant de l'ensemble de test, vous devez prédire 1 si le tweet
 ## Résultats de soumission
 
 submissions_01.csv - Score: 0.82837
+
 submissions_02.csv - Score: 0.83573
 
 
