@@ -24,6 +24,12 @@ Les soumissions sont évaluées à l'aide de F1 entre les réponses prévues et 
 Pour chaque identifiant de l'ensemble de test, vous devez prédire 1 si le tweet décrit une catastrophe réelle, et 0 dans le cas contraire.
 
 
+## Résultats de soumission
+
+submissions_01.csv - Score: 0.82837
+submissions_02.csv - Score: 0.83573
+
+
 ## Installation
 
 1. Cloner le repository
